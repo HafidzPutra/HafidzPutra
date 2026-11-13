@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HafidzPutra
-- 👀 I’m interested in web and application
-- 🌱 I’m currently learning html, css, and js
+- 👀 I’m interested in webdev
+- 🌱 I’m currently learning html, css, and php
 <!-- - 💞️ I’m looking to collaborate on ... idk -_-
 - 📫 How to reach me ... maybe later ... -->
 
